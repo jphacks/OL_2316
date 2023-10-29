@@ -1,5 +1,4 @@
 # ECOSNAP(エコスナップ)
-<img width="317" alt="スクリーンショット 2023-10-29 13 48 42" src="https://github.com/jphacks/OL_2316/assets/105538719/4ed04c0b-2ca7-4adb-9e36-c4c8992a7f1a">
 <img width="531" alt="スクリーンショット 2023-10-29 13 50 25" src="https://github.com/jphacks/OL_2316/assets/105538719/08485846-0ba1-4c6a-b963-425a5477eb16">
 
 
