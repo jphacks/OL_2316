@@ -139,9 +139,10 @@ __「ゴミの処理方法やリサイクル方法を調べることが面倒」
 *  フロントエンド
 *    HTML, CSS
 * バックエンド
-*   Django
+*   Django(Django~=3.2.10)
 * 機械学習
 *   Google Colab
+*   YOLOv8n(ultralytics)
 * 環境開発整備
 *   VSCode
   
