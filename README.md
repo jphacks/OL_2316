@@ -166,6 +166,8 @@ YOLOの通常の物体検知モデルはゴミの画像を詳細に検知する�
 (例)通常のYOLOではペットボトルを読み込むと、「bottle」としか表示されませんが、
 
 私たちのチームで開発したオリジナルモデルでは、「petbottle」と表示できるようになっています！
+
+<br>
 ![petbottle](https://github.com/jphacks/OL_2316/assets/105538719/87cf71cd-3d65-4305-b7c7-fdd8f885b381)
 
 
