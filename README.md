@@ -7,12 +7,6 @@ https://github.com/jphacks/OL_2316/assets/105538719/a971c5c0-70b6-4286-bfbe-1d3d
 
 
 
-https://github.com/jphacks/OL_2316/assets/105538719/124aaba0-54ae-4e79-b30f-62d25ebd3289
-
-
-
-
-
 ## 製品概要
 
 ECOSNAPは、
@@ -85,6 +79,11 @@ __「瞬時に」__
 <img width="560" alt="uplode" src="https://github.com/jphacks/OL_2316/assets/105538719/5e7c52ef-81e4-4cf7-858f-b543314eecc3">
 
 3. 判別されたゴミの分類、リサイクル方法、CO2削減量を確認します。
+
+### デモ動画
+
+
+https://github.com/jphacks/OL_2316/assets/105538719/470d165c-6dc8-434e-b798-8fe28693ebdf
 
 
 
