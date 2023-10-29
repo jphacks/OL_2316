@@ -1,6 +1,6 @@
 # ECOSNAP(エコスナップ)
+<img width="317" alt="スクリーンショット 2023-10-29 13 48 42" src="https://github.com/jphacks/OL_2316/assets/105538719/4ed04c0b-2ca7-4adb-9e36-c4c8992a7f1a">
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2023/07/JPHACKS2023_ogp.png)](https://www.youtube.com/watch?v=yYRQEdfGjEg)
 
 ## 製品概要
 
